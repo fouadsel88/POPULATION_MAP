@@ -1,5 +1,5 @@
 ---
-title: "New Yorck city Population"
+title: "New Yorck City Population"
 author: "Selmane Fouad"
 date: "September 10, 2017"
 output: html_document
