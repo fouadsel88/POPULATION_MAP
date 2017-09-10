@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ## New York City Population
 
-Each circle in the map represent one NYC borough population.
+Each circle in the map represent one of NYC borough population.
 
 ```{r}
 library(leaflet)
